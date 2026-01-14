@@ -13,4 +13,10 @@ This UMGC lab examining a suspected spyware executable in a sandbox environment 
 
 ---
 
-##
+## 🛡️ Analyzing Malware Using VirusTotal
+
+UMGC lab analyzing a file with VirusTotal by reviewing detections, metadata, and malicious indicators.
+
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Analyzing-Malware-Using-VirusTotal-/tree/main)
+
+---
