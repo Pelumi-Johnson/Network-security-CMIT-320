@@ -9,7 +9,7 @@ Network security course focused on traffic control, segmentation, monitoring, fi
 
 This UMGC lab examining a suspected spyware executable in a sandbox environment by monitoring process and network activity
 
-➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Creating-a-Site-to-Site-VPN-on-AWS/tree/main?tab=readme-ov-file)
+➡ [**View Full Lab Report**](https://github.com/Pelumi-Johnson/Examining-Spyware/tree/main)
 
 ---
 
